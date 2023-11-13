@@ -35,5 +35,7 @@
  - book_id — идентификатор книги;  
  - username — имя автора обзора;  
  - text — текст обзора.
+
+
    **Инструменты SQL**     
 pandas, sqlalchemy import text, create_engine, SQL запрсы, создание соединения к бд для запросов SQL
